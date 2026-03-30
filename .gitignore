@@ -16,3 +16,6 @@ config/bck
 ppe_output
 isaacgym
 real_capture
+*.zip
+data/
+logs/
